@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/PriyanshuS295/SQL_Leetcode/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/PriyanshuS295/SQL_Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
